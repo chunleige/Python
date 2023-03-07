@@ -46,4 +46,10 @@ np.std()  # also
 
 # Variables
 
+improt random
+random_sample = random.sample(range(1,101),10)
+random_sample
 
+- getting help
+
+help(print)
