@@ -1,0 +1,6 @@
+# Data types
+
+q = 1/47*47 #float
+w = 1  #int
+type(q) == type(w)  #false 
+
