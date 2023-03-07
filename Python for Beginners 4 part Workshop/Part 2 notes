@@ -4,3 +4,12 @@ q = 1/47*47 #float
 w = 1  #int
 type(q) == type(w)  #false 
 
+- list
+
+list[0]  #first elment 
+list[-1] #last element
+
+house = {'bed': 2, 'bath': 3, 'address': ['101 soda rd','33 ave']}
+type(house)
+type(house['bed'])
+type(house['address'])
