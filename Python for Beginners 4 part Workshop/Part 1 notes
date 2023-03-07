@@ -2,17 +2,44 @@ Part 1 - March 7
 
 Preparation work: 
 
-Use Jupyter notebook on https://ubc.syzygy.ca/ signing in with your ubc account
-The tutorial used in the workshop https://csc-ubc-okanagan.github.io/Python-for-beginners/
+- Use Jupyter notebook on https://ubc.syzygy.ca/ signing in with your ubc account
+- The tutorial used in the workshop https://csc-ubc-okanagan.github.io/Python-for-beginners/
 
 # Getting started 
 
 practice some basic calculation, for loop
 
+package math
+
 # Python and Jupyter Notebook
 
-define function using def
+# Functions
+
+- define function using def
 
 def add(x,y):
     answer = x + y
     return answer
+    
+- package random
+
+import random
+randomlist = random.sample(range(0,101),50) #sampling from 0 to 100 
+randomlist
+
+- package numpy
+
+import numpy as np 
+np.mean(randomlist)
+
+- package statistics
+
+import statistics as st
+st.median(randomlist)
+
+np.var(randomlist)   #var function is not in package statistcs
+np.std()  # also 
+
+# Variables
+
+
