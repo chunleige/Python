@@ -13,6 +13,10 @@ package math
 
 # Python and Jupyter Notebook
 
+Jupyter Notebook is a web-based interactive computing platform, and it can be used for many things, aside from Python.
+
+Think of Python as the language you are writing in, and Jupyter as the pen and pencil. This is how Python and Jupyter are used together.
+
 # Functions
 
 - define function using def
