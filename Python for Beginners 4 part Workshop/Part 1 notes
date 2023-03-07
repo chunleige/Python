@@ -1,0 +1,18 @@
+Part 1 - March 7 
+
+Preparation work: 
+
+Use Jupyter notebook on https://ubc.syzygy.ca/ signing in with your ubc account
+The tutorial used in the workshop https://csc-ubc-okanagan.github.io/Python-for-beginners/
+
+# Getting started 
+
+practice some basic calculation, for loop
+
+# Python and Jupyter Notebook
+
+define function using def
+
+def add(x,y):
+    answer = x + y
+    return answer
