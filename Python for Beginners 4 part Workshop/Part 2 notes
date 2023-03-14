@@ -13,3 +13,9 @@ house = {'bed': 2, 'bath': 3, 'address': ['101 soda rd','33 ave']}
 type(house)
 type(house['bed'])
 type(house['address'])
+
+# importing data
+
+# packages
+
+import package.subpackage.modulename
